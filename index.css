@@ -1,0 +1,32 @@
+
+
+.container{
+    background-color: aqua;
+    position: relative;
+height: 300vh;
+}
+.first{
+    background-color: brown;
+    position: fixed;
+    top: 0px;
+    left: 12px;
+}
+.second{
+    background-color: chartreuse;
+    position: sticky;
+    top: 0rem;
+}
+.third{
+    background-color: darkblue;
+}
+.fourth{
+    background-color: darkmagenta;
+}
+.fifth{
+    background-color: darkslategray;
+}
+.sixth{
+    background-color: forestgreen;
+    position: sticky;
+    top: 3rem;
+}
